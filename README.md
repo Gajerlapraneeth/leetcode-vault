@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
