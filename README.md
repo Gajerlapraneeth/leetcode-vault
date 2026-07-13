@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -27,4 +28,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gajerlapraneeth/leetcode-vault/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
